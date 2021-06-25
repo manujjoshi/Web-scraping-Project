@@ -1,5 +1,5 @@
-# This Project contains- 
-1. Created scraping processor to extract the data
-2. Saved the data in .csv files
-3. Performed the EDA to find insights
-4. Delivered the presentation
+# This Project contains the following things- 
+1. Scraping processor to extract the data
+2. Scrapped data in .csv files
+3. EDA to find insights
+4. Presentation of the same
