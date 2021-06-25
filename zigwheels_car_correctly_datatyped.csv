@@ -1,0 +1,190 @@
+Brand,CC,Milage in kmpl,Fuel Type,Ratings,Rated By,Base Model Price,Top Model Price,Model
+Maruti,1197.0,23.0, Petrol,4.0,177.0,573000.0,841000.0, Suzuki Swift
+Maruti,1462.0,19.0, Petrol,4.0,278.0,751000.0,1141000.0, Suzuki Vitara Brezza
+Maruti,1197.0,24.0, Petrol,4.1,2100.0,598000.0,930000.0, Suzuki Baleno
+Maruti,1197.0,24.0, Petrol,4.0,771.0,598000.0,902000.0, Suzuki Dzire
+Maruti,1462.0,19.0, Petrol  CNG,4.0,1709.0,781000.0,1059000.0, Suzuki Ertiga
+Maruti,998.0,22.0, Petrol  CNG,3.9,3780.0,480000.0,633000.0, Suzuki Wagon R
+Maruti,796.0,22.0, Petrol  CNG,3.7,3400.0,299000.0,460000.0, Suzuki Alto 800
+Maruti,998.0,22.0, Petrol  CNG,3.9,975.0,465000.00000000006,590000.0, Suzuki Celerio
+Maruti,1462.0,19.0, Petrol,4.3,185.0,994000.0,1173000.0, Suzuki XL6
+Maruti,1462.0,18.0, Petrol,4.2,92.0,839000.0,1239000.0, Suzuki S-Cross
+Maruti,998.0,22.0, Petrol  CNG,4.0,307.0,378000.0,526000.0, Suzuki S-Presso
+Maruti,1197.0,21.0, Petrol,4.2,499.0,495000.0,736000.0, Suzuki Ignis
+Maruti,1462.0,21.0, Petrol,4.3,967.0,852000.0,1150000.0, Suzuki Ciaz
+Maruti,1196.0,16.0, Petrol  CNG,3.7,743.0,408000.0,529000.0, Suzuki Eeco
+Maruti,998.0,22.0, Petrol,3.9,166.0,511000.00000000006,591000.0, Suzuki Celerio X
+Maruti,1197.0,20.0, Petrol  CNG,4.0,69.0,576000.0,640000.0, Suzuki Swift Dzire Tour
+Honda,1498.0,24.0, Petrol  Diesel,4.3,570.0,1099000.0,1494000.0, City
+Honda,1199.0,25.0, Petrol  Diesel,4.1,1320.0,622000.0,999000.0, Amaze
+Honda,1199.0,24.0, Petrol  Diesel,4.3,131.0,861999.9999999999,1105000.0, WR-V
+Honda,1199.0,17.0, Petrol,4.2,112.0,755000.0,979000.0, Jazz
+Honda,1497.0,17.0, Petrol,4.3,1761.0,929000.0,999000.0, City 4th Generation
+Mahindra,1997.0,15.0, Petrol  Diesel,4.3,117.0,1211000.0,1416000.0, Thar
+Mahindra,2179.0,, Diesel,4.0,1677.0,1231000.0,1702000.0, Scorpio
+Mahindra,1498.0,16.0, Diesel,3.9,262.0,840000.0,939000.0, Bolero
+Mahindra,1197.0,20.0, Petrol  Diesel,4.3,434.0,795000.0,1309000.0, XUV300
+Mahindra,2179.0,15.0, Diesel,4.3,1205.0,1552000.0,2003000.0, XUV500
+Mahindra,1497.0,17.0, Diesel,4.3,179.0,1203000.0,1412000.0, Marazzo
+Mahindra,1198.0,18.0, Petrol,3.9,305.0,605000.0,771000.0, KUV100 NXT
+Mahindra,2157.0,12.0, Diesel,4.2,73.0,2873000.0,3173000.0, Alturas G4
+Mahindra,2000.0,, Electric,3.4,17.0,1015000.0,1049000.0, E Verito
+Mahindra,2523.0,, Diesel,3.7,138.0,809000.0,835000.0, Bolero Pik-Up
+Jeep,1368.0,, Petrol  Diesel,4.3,23.0,1719000.0000000002,2849000.0, Compass
+Jeep,1998.0,12.0, Petrol,4.3,21.0,5390000.0,5790000.0, Wrangler
+Jeep,1956.0,16.0, Diesel,4.6,19.0,2680000.0,2760000.0, Compass Trailhawk
+Tata,1199.0,22.0, Petrol  Diesel,4.5,559.0,719000.0,1295000.0, Nexon
+Tata,1956.0,17.0, Diesel,4.5,332.0,1429000.0,2081000.0, Harrier
+Tata,1199.0,25.0, Petrol  Diesel,4.5,361.0,579000.0,955000.0, Altroz
+Tata,1199.0,24.0, Petrol,4.3,590.0,499000.0,695000.0, Tiago
+Tata,1199.0,20.0, Petrol,4.3,160.0,559000.0,773000.0, Tigor
+Tata,2956.0,, Diesel,3.9,27.0,694000.0,749000.0, Yodha Pickup
+Tata,2000.0,, Electric,4.3,12.0,958000.0,990000.0, Tigor EV
+Tata,1956.0,, Diesel,4.6,35.0,1499000.0,2181000.0, Safari
+Tata,2000.0,, Electric,4.2,51.0,1399000.0,1655999.9999999998, Nexon EV
+Ford,1496.0,22.0, Petrol  Diesel,4.3,146.0,819000.0,1169000.0, EcoSport
+Ford,1996.0,14.0, Diesel,4.4,90.0,2999000.0,3625000.0, Endeavour
+Ford,1499.0,24.0, Petrol  Diesel,4.1,952.0,582000.0,836999.9999999999, Figo
+Ford,1194.0,24.0, Petrol  Diesel,4.4,313.0,727000.0,902000.0, Freestyle
+Ford,1194.0,24.0, Petrol  Diesel,4.3,466.0,727000.0,872000.0000000001, Aspire
+Hyundai,1497.0,21.0, Petrol  Diesel,4.3,635.0,999000.0,1770000.0, Creta
+Hyundai,1197.0,25.0, Petrol  Diesel,4.2,486.0,685000.0,1134000.0, i20
+Hyundai,998.0,24.0, Petrol  Diesel,4.2,661.0,692000.0,1176000.0, Venue
+Hyundai,1497.0,25.0, Petrol  Diesel,4.3,551.0,919000.0,1525000.0, Verna
+Hyundai,1197.0,25.0, Petrol  Diesel  CNG,4.3,133.0,597000.0,935000.0, Aura
+Hyundai,1086.0,20.0, Petrol  CNG,3.9,1176.0,473000.00000000006,641000.0, Santro
+Hyundai,1493.0,15.0, Petrol  Diesel,4.2,89.0,1785000.0000000002,2112000.0, Elantra
+Hyundai,1999.0,15.0, Petrol  Diesel,4.3,11.0,2257000.0,2735000.0, Tucson
+Hyundai,2000.0,, Electric,4.3,27.0,2377000.0,2396000.0, Kona Electric
+Hyundai,1197.0,15.0, Petrol  CNG,4.2,6.0,639000.0,719000.0, Xcent Prime
+Hyundai,1186.0,26.0, Petrol  Diesel  CNG,4.2,288.0,523000.00000000006,844999.9999999999, Grand i10 Nios
+Toyota,2694.0,, Petrol  Diesel,4.3,87.0,3034000.0,3830000.0, Fortuner
+Toyota,2694.0,, Petrol  Diesel,4.4,117.0,1652000.0,2459000.0, Innova Crysta
+Toyota,2487.0,19.0, Petrol,4.6,47.0,4059000.000000001,, Camry
+Toyota,1496.0,18.0, Petrol,4.1,98.0,916000.0,1460000.0, Yaris
+Toyota,2494.0,16.0, Petrol,4.7,13.0,8990000.0,, Vellfire
+Toyota,1197.0,24.0, Petrol,4.2,139.0,734000.0,930000.0, Glanza
+Toyota,1462.0,19.0, Petrol,4.2,30.0,861999.9999999999,1140000.0, Urban Cruiser
+Kia,1497.0,21.0, Petrol  Diesel,4.4,755.0,995000.0,1764999.9999999998, Seltos
+Kia,1197.0,24.0, Petrol  Diesel,4.3,241.0,679000.0,1335000.0, Sonet
+Kia,2199.0,14.0, Diesel,4.5,101.0,2495000.0,3395000.0000000005, Carnival
+Volkswagen,999.0,18.0, Petrol,4.2,604.0,616000.0,999000.0, Polo
+Volkswagen,999.0,18.0, Petrol,4.3,313.0,999000.0,1383000.0, Vento
+Volkswagen,1498.0,18.0, Petrol,4.6,13.0,2135000.0,, T-Roc
+Volkswagen,1984.0,17.0, Petrol,4.4,10.0,3420000.0000000005,, Tiguan Allspace
+Renault,799.0,22.0, Petrol,3.8,716.0,332000.0,548000.0, KWID
+Renault,999.0,, Petrol,4.2,33.0,564000.0,1008000.0, Kiger
+Renault,999.0,20.0, Petrol,4.1,351.0,550000.0,795000.0, Triber
+Renault,1498.0,16.0, Petrol,4.0,334.0,986000.0,1425000.0, Duster
+BMW,1998.0,20.0, Petrol  Diesel,4.2,47.0,3850000.0,4290000.0, X1
+BMW,2993.0,13.0, Petrol  Diesel,4.2,32.0,7650000.0,8800000.0, X5
+BMW,1998.0,20.0, Petrol  Diesel,4.4,74.0,4360000.0,6290000.0, 3 Series
+BMW,2993.0,13.0, Petrol  Diesel,4.4,31.0,9590000.0,165000.0, X7
+BMW,2998.0,10.0, Petrol,4.6,9.0,9690000.0,, X6
+BMW,1998.0,19.0, Petrol  Diesel,4.4,4.0,3790000.0,4230000.0, 2 Series
+BMW,1998.0,20.0, Petrol  Diesel,4.3,123.0,5600000.0,6909999.999999999, 5 Series
+BMW,2998.0,14.0, Petrol,4.3,39.0,6700000.0,8190000.000000001, Z4
+BMW,1998.0,17.0, Petrol  Diesel,4.1,25.0,5750000.0,6370000.0, X3
+BMW,1995.0,17.0, Petrol  Diesel,4.1,11.0,6240000.0,6959999.999999999, X4
+BMW,2993.0,40.0, Petrol  Diesel,4.6,50.0,13700000.0,24600000.0, 7 Series
+BMW,1998.0,19.0, Petrol  Diesel,4.6,32.0,6790000.000000001,7790000.000000001, 6 Series
+BMW,2998.0,11.0, Petrol,4.5,20.0,13200000.0,21800000.0, 8 Series
+BMW,2979.0,11.0, Petrol,4.5,14.0,8500000.0,, M2
+BMW,2993.0,9.0, Petrol,4.7,2.0,9990000.0,, X3 M
+BMW,4395.0,8.0, Petrol,4.5,2.0,19400000.0,, X5 M
+BMW,1998.0,20.0, Petrol  Diesel,4.7,3.0,5150000.0,5390000.0, 3 Series Gran Limousine
+Mercedes,1950.0,, Petrol  Diesel,5.0,1.0,4360000.0,5878000.0, GLA
+Mercedes,2925.0,, Petrol  Diesel,4.4,11.0,10400000.0,24300000.0, GLS
+Mercedes,2925.0,16.0, Petrol  Diesel,4.4,7.0,6360000.0,8090000.000000001, E-Class
+Mercedes,1950.0,10.0, Petrol  Diesel,4.4,11.0,7723999.999999999,12500000.0, GLE
+Mercedes,2143.0,16.0, Diesel,4.7,9.0,7109999.999999999,14600000.0, V-Class
+Mercedes,1991.0,13.0, Petrol  Diesel,4.6,18.0,5736000.0,6313000.0, GLC
+Mercedes,2000.0,, Electric,5.0,2.0,10400000.0,, EQC
+Mercedes,2999.0,, Petrol,4.2,4.0,12700000.0,, AMG GLE 53
+Mercedes,1950.0,19.0, Diesel,4.5,2.0,8639000.0,, CLS
+Mercedes,2925.0,8.0, Petrol  Diesel,4.5,47.0,16200000.0,24200000.0, G-Class
+Mercedes,2996.0,14.0, Petrol  Diesel,4.4,74.0,14100000.0,27800000.0, S-Class
+Mercedes,3982.0,13.0, Petrol,4.5,25.0,22700000.0,26300000.0, AMG GT
+Mercedes,2000.0,, Diesel,,,,, E-Class All-Terrain
+Mercedes,1998.0,, Petrol  Diesel,4.3,1.0,3990000.0,5624000.0, A-Class Limousine
+Mercedes,3982.0,13.0, Petrol  Diesel,4.4,109.0,4131000.0,13900000.0, C-Class
+Mercedes,3998.0,, Petrol,4.3,10.0,25700000.0,, AMG GT 4-Door Coupe
+Mercedes,1991.0,16.0, Petrol  Diesel,,,6665000.000000001,8153000.0, GLC Coupe
+Datsun,799.0,22.0, Petrol,3.9,87.0,383000.0,495000.0, redi-GO
+Datsun,1198.0,20.0, Petrol,3.5,191.0,402000.0,651000.0, GO
+Datsun,1198.0,19.0, Petrol,3.8,232.0,425000.0,699000.0, GO Plus
+Volvo,1969.0,46.0, Petrol  Diesel,4.4,29.0,8090000.000000001,13100000.0, XC90
+Volvo,1969.0,, Petrol,4.5,17.0,4125000.0,, XC40
+Volvo,1969.0,, Petrol,4.7,4.0,4590000.0,, S60
+Volvo,1969.0,18.0, Diesel,4.4,12.0,6090000.0,, S90
+Volvo,1969.0,11.0, Diesel,4.3,23.0,6090000.0,, XC60
+Volvo,2000.0,, Diesel,,,,, V90 Cross Country
+Lamborghini,3996.0,8.0, Petrol,4.3,48.0,31500000.0,34300000.0, Urus
+Lamborghini,6498.0,8.0, Petrol,4.2,90.0,50100000.0,62500000.0, Aventador
+Lamborghini,5204.0,7.0, Petrol,4.3,43.0,32100000.0,40000000.0, Huracan EVO
+Rolls,6749.0,10.0, Petrol,4.5,107.0,89900000.0,104800000.0, Royce Phantom
+Rolls,6750.0,, Petrol,4.5,13.0,69500000.0,79500000.0, Royce Ghost
+Rolls,6592.0,10.0, Petrol,4.7,22.0,62200000.0,72100000.0, Royce Wraith
+Rolls,6750.0,10.0, Petrol,4.6,32.0,69500000.0,, Royce Cullinan
+Rolls,6598.0,10.0, Petrol,4.7,19.0,73000000.0,78500000.0, Royce Dawn
+Audi,1984.0,14.0, Petrol,4.2,41.0,5708000.0,6181000.0, A6
+Audi,1998.0,17.0, Petrol,4.6,6.0,4319000.0,4761000.0, A4
+Audi,2995.0,10.0, Petrol,4.0,4.0,9898000.0,134000.0, Q8
+Audi,1984.0,, Petrol,3.9,2.0,3499000.0,4889000.0, Q2
+Audi,2995.0,12.0, Petrol,4.6,18.0,15700000.0,, A8
+Audi,3996.0,9.0, Petrol,4.8,8.0,19400000.0,, RS7
+Audi,2000.0,, Diesel,,,,, GTI
+Audi,3998.0,, Petrol,5.0,1.0,207000.0,20700000.0, RS Q8
+Audi,2994.0,, Petrol,,,8048999.999999999,, S5 Sportback
+Skoda,999.0,19.0, Petrol,4.3,514.0,779000.0,1329000.0, New Rapid
+Skoda,1984.0,16.0, Petrol,4.9,3.0,2599000.0,2899000.0, Octavia
+Skoda,1984.0,15.0, Petrol,4.4,11.0,3199000.0,3499000.0, New Superb
+Nissan,999.0,20.0, Petrol,4.2,68.0,559000.0,1000000.0, Magnite
+Nissan,1498.0,14.0, Petrol,4.4,63.0,949000.0,1464000.0, Kicks
+Nissan,3798.0,9.0, Petrol,4.5,18.0,212000.0,, GT-R
+Jaguar,1997.0,, Petrol,4.1,7.0,9797000.0,26100000.0, F-TYPE
+Jaguar,1997.0,, Petrol,4.3,12.0,4664000.0,4850000.0, XE
+Jaguar,1997.0,, Petrol  Diesel,4.0,1.0,6998999.999999999,, F-Pace
+Jaguar,2000.0,, Electric,4.7,1.0,10500000.0,11200000.0, I-Pace
+Jaguar,1997.0,11.0, Petrol,4.3,31.0,5567000.0,, XF
+MINI,1998.0,14.0, Petrol,1.0,1.0,3950000.0,4340000.0, Cooper Countryman
+MINI,1998.0,17.0, Petrol,4.3,16.0,4010000.0,, Cooper Convertible
+MINI,1998.0,17.0, Petrol,4.5,13.0,3510000.0,, Cooper 3 DOOR
+Porsche,2981.0,9.0, Petrol,4.1,18.0,16300000.0,30700000.0, 911
+Porsche,1984.0,, Petrol,4.5,4.0,6998000.0,8395000.0, Macan
+Porsche,3996.0,11.0, Petrol,5.0,1.0,14400000.0,24200000.0, Panamera
+Porsche,3995.0,9.0, Petrol,4.3,6.0,8546000.0,16300000.0, 718
+Porsche,2995.0,, Petrol,4.5,14.0,12000000.0,19200000.0, Cayenne
+Porsche,2995.0,, Petrol,4.6,6.0,13100000.0,19800000.0, Cayenne Coupe
+Ferrari,3855.0,, Petrol,4.5,2.0,36100000.0,, Roma
+Ferrari,3855.0,9.0, Petrol,4.1,9.0,35000000.0,, Portofino
+Ferrari,3990.0,, Petrol,4.7,10.0,75000000.0,, SF90 Stradale
+Ferrari,6496.0,, Petrol,4.2,2.0,57500000.0,, 812
+Ferrari,3902.0,, Petrol,5.0,1.0,40200000.0,, F8 Tributo
+Maserati,2979.0,12.0, Petrol  Diesel,4.5,12.0,14900000.0,16400000.0, Levante
+Maserati,3799.0,, Petrol,,,11500000.0,19300000.0, Ghibli
+Maserati,2979.0,12.0, Petrol  Diesel,4.6,5.0,17100000.0,21100000.0, Quattroporte
+Maserati,4691.0,10.0, Petrol  Diesel,4.5,4.0,22500000.0,25100000.0, GranTurismo
+Maserati,4691.0,10.0, Petrol  Diesel,3.9,5.0,24600000.0,26900000.0, GranCabrio
+ISUZU,1898.0,, Diesel,,,3322999.9999999995,3519000.0, MU-X
+ISUZU,1898.0,, Diesel,4.7,2.0,1698000.0,2449000.0, D-Max
+Aston,3982.0,, Diesel,,,38200000.0,, Martin DBX
+Aston,3998.0,, Petrol,3.0,1.0,38000000.0,42000000.0, Martin DB11
+Aston,3998.0,, Petrol,3.0,2.0,300000.0,350000.0, Martin Vantage
+Land,2993.0,13.0, Petrol  Diesel,4.4,37.0,21000000.0,43800000.0, Rover Range Rover
+Land,1997.0,, Petrol  Diesel,4.4,21.0,5904000.0,6305000.0, Rover Range Rover Evoque
+Land,1997.0,16.0, Petrol,4.6,52.0,7528000.0,, Rover Range Rover Velar
+Land,1997.0,14.0, Petrol  Diesel,4.6,16.0,7656999.999999999,11100000.0, Rover Defender
+Land,1999.0,18.0, Petrol,4.3,13.0,7559000.0,8799000.0, Rover Discovery
+Land,1999.0,, Petrol  Diesel,4.2,8.0,6530000.0,6795000.0, Rover Discovery Sport
+Land,1997.0,13.0, Petrol  Diesel,4.6,33.0,9127000.0,18400000.0, Rover Range Rover Sport
+Bentley,3956.0,, Petrol,5.0,1.0,41000000.0,, Bentayga
+Bentley,2000.0,, Petrol  ,4.3,12.0,32900000.0,39100000.0, Continental
+Bentley,5950.0,13.0, Petrol,4.8,4.0,30000000.0,35000000.0, Flying Spur
+Lexus,3456.0,15.0, Petrol,4.3,17.0,19100000.0,22200000.0, LS
+Lexus,2487.0,22.0, Petrol,4.6,26.0,5655000.0,6175000.0, ES
+Lexus,3456.0,19.0, Petrol,4.6,17.0,10300000.0,, RX
+Lexus,5663.0,7.0, Petrol,4.1,19.0,23200000.0,, LX
+Lexus,2499.0,18.0, Petrol,5.0,1.0,5820000.0,6363000.0, NX
+Lexus,3456.0,, Petrol,3.6,9.0,20900000.0,21500000.0, LC 500h
+Citroen,1997.0,19.0, Diesel,4.0,4.0,2990000.0,3190000.0, C5 Aircross
