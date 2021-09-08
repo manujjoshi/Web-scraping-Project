@@ -1,0 +1,214 @@
+Brand,Model,Ratings,Rated By,CC or Watt,Fuel Type,Start Price,Top Model Price,bhp,Weight
+22Kymco, Flow,4.1,25.0,2100.0,Electric,74740.0,,,
+22Kymco, iFlow,3.7,7.0,2100.0,Electric,90000.0,,,
+Honda, Activa 6G,3.9,921.0,109.51,Petrol,67843.0,71089.0,7.79,107.0
+Honda, Shine,4.0,694.0,124.0,Petrol,71550.0,76346.0,10.74,114.0
+Honda, Dio,4.1,642.0,109.51,Petrol,63273.0,69171.0,7.76,103.0
+Honda, SP 125,4.0,610.0,124.0,Petrol,77145.0,81441.0,10.8,117.0
+Honda, Unicorn,4.1,393.0,162.7,Petrol,97356.0,,12.91,140.0
+Honda, Activa 125,3.9,980.0,124.0,Petrol,71674.0,78797.0,8.29,111.0
+Honda, Livo,4.1,181.0,109.51,Petrol,69971.0,74171.0,8.79,115.0
+Honda, CD 110 Dream,4.0,109.0,109.51,Petrol,64421.0,65421.0,8.79,112.0
+Honda, Grazia,3.9,123.0,124.0,Petrol,75859.0,84185.0,8.25,108.0
+Bajaj, Pulsar 150,4.0,7053.0,149.5,Petrol,95872.0,1.04,,150.0
+Bajaj, Pulsar 125 Neon,3.8,703.0,124.4,Petrol,73363.0,82989.0,11.8,142.0
+Bajaj, CT100,3.9,952.0,102.0,Petrol,44890.0,47654.0,7.9,115.0
+Bajaj, Platina 100,4.0,822.0,102.0,Petrol,52915.0,63578.0,7.9,117.0
+Bajaj, Pulsar NS 125,3.9,49.0,124.4,Petrol,93690.0,,11.99,144.0
+Bajaj, CT110,4.0,204.0,115.0,Petrol,54138.0,55494.0,8.6,118.0
+Bajaj, Platina 110 H Gear,4.2,270.0,115.45,Petrol,59859.0,,8.6,122.0
+Bajaj, Platina 110,4.1,350.0,115.45,Petrol,65926.0,,8.6,123.0
+Revolt, RV300,3.9,94.0,1500.0,Electric,94999.0,,,101.0
+TVS, Jupiter,4.0,2311.0,109.7,Petrol,64437.0,73737.0,7.47,107.0
+TVS, NTORQ 125,4.1,2120.0,124.8,Petrol,71095.0,81075.0,9.38,118.0
+TVS, XL100,3.8,407.0,99.7,Petrol,41015.0,50384.0,4.4,
+TVS, Sport,3.8,662.0,109.7,Petrol,56130.0,62980.0,8.29,110.0
+TVS, Radeon,3.9,261.0,109.7,Petrol,61242.0,68567.0,8.19,116.0
+TVS, Scooty Pep Plus,3.8,374.0,87.8,Petrol,56009.0,58759.0,5.4,
+TVS, Star City Plus,4.1,555.0,109.7,Petrol,66895.0,69465.0,8.19,115.0
+TVS, Scooty Zest,3.9,137.0,109.7,Petrol,61345.0,64980.0,7.81,103.0
+Hero, Splendor Plus,4.0,6423.0,97.2,Petrol,62535.0,67845.0,8.02,112.0
+Hero, HF Deluxe,3.9,1055.0,97.2,Petrol,49400.0,61975.0,8.02,112.0
+Hero, Passion Pro,3.9,1192.0,113.0,Petrol,68150.0,72150.0,9.15,117.0
+Hero, Super Splendor,3.9,1204.0,124.7,Petrol,71100.0,74600.0,10.8,122.0
+Hero, Glamour,3.9,2588.0,124.7,Petrol,73200.0,78500.0,10.87,122.0
+Hero, Pleasure Plus,4.5,438.0,110.9,Petrol,58900.0,64100.0,8.1,104.0
+Hero, Maestro Edge 125,4.1,445.0,125.0,Petrol,70850.0,74350.0,9.12,112.0
+Hero, Splendor iSmart,3.8,235.0,113.2,Petrol,67250.0,69450.0,9.15,117.0
+Hero, Destini 125,4.3,588.0,124.6,Petrol,67990.0,73390.0,9.1,113.0
+Hero, Maestro Edge 110,3.7,89.0,110.9,Petrol,62750.0,65750.0,8.15,112.0
+Yamaha, Fascino 125 ,4.1,199.0,125.0,Petrol,72030.0,75530.0,8.2,
+Yamaha, RayZR 125,4.2,201.0,125.0,Petrol,73330.0,77330.0,8.2,
+Suzuki, Access 125,4.1,807.0,124.0,Petrol,71000.0,80200.0,8.7,104.0
+Suzuki, Burgman Street,4.4,557.0,124.0,Petrol,82700.0,86200.0,8.7,110.0
+Hero, Electric Optima LA,3.6,38.0,250.0,Electric,44990.0,,,
+Hero, Electric Flash,3.4,44.0,250.0,Electric,39990.0,52990.0,,
+Hero, Electric Optima HS500 ER,3.7,30.0,550.0,Electric,71990.0,,,
+Hero, Electric NYX,3.6,11.0,250.0,Electric,63990.0,79990.0,,
+Hero, Electric Photon,3.1,21.0,1000.0,Electric,61866.0,72990.0,,116.0
+Hero, Electric Optima Li,3.2,12.0,550.0,Electric,61990.0,68721.0,,
+Hero, Electric Dash,4.5,14.0,250.0,Electric,50000.0,62000.0,,
+Hero, Electric Optima E5,4.0,21.0,550.0,Electric,66551.0,,,
+Vespa, LX 125,4.0,46.0,124.45,Petrol,96615.0,,9.92,115.0
+Vespa, Notte 125,4.1,34.0,124.45,Petrol,93144.0,,9.92,115.0
+Vespa, Urban Club 125,3.9,6.0,124.45,Petrol,94821.0,,9.92,115.0
+Aprilia, Storm 125,4.0,56.0,124.45,Petrol,87082.0,92601.0,9.92,118.0
+Aprilia, SR 125,4.0,77.0,124.45,Petrol,94288.0,96811.0,9.92,118.0
+White, Carbon Motors O3,,,250.0,Electric,55900.0,,,
+Lohia, Oma Star,,,250.0,Electric,41444.0,,,
+Lohia, Oma Star Li,1.0,1.0,250.0,Electric,51750.0,,,
+YObykes, Drift,4.1,6.0,250.0,Electric,51000.0,,,
+YObykes, Edge,3.8,3.0,250.0,Electric,49000.0,,,
+Okinawa, PraisePro,3.5,32.0,2500.0,Electric,79277.0,,,
+Okinawa, R30,3.5,15.0,250.0,Electric,58992.0,,,
+Okinawa, Ridge,3.8,37.0,1700.0,Electric,73417.0,,,
+Okinawa, Dual,3.7,5.0,250.0,Electric,58992.0,,,
+Okinawa, Lite,4.7,24.0,250.0,Electric,63990.0,,,
+Li-ions, Elektrik Solutions Spock Electric Scooter,3.8,32.0,2000.0,Electric,65000.0,,,
+Royal, Enfield Classic 350,4.0,9643.0,346.0,Petrol,172000.0,198000.0,19.36,195.0
+Royal, Enfield Bullet 350,4.0,3601.0,346.0,Petrol,134000.0,155000.0,19.36,191.0
+Royal, Enfield Himalayan,4.3,371.0,411.0,Petrol,201000.0,208000.0,24.31,199.0
+Royal, Enfield Meteor 350,4.2,188.0,349.0,Petrol,184000.0,199000.0,20.4,
+Royal, Enfield Interceptor 650,4.2,453.0,648.0,Petrol,275000.0,297000.0,47.65,202.0
+Royal, Enfield Continental GT 650,4.3,314.0,648.0,Petrol,291000.0,313000.0,47.65,202.0
+Honda, Hornet 2,4.2,174.0,184.4,Petrol,129000.0,131000.0,17.26,142.0
+Honda, Hness CB350,4.4,129.0,348.36,Petrol,186000.0,192000.0,21.07,181.0
+Honda, XBlade,4.2,134.0,162.71,Petrol,109000.0,113000.0,13.8,144.0
+Honda, Gold Wing,4.4,24.0,1833.0,Petrol,3720000.000000001,3916000.0,126.4,379.0
+Honda, CBR650R,4.5,24.0,648.72,Petrol,888000.0000000001,,87.01,208.0
+Honda, CB350RS,4.1,16.0,348.36,Petrol,189000.0,195000.0,21.07,179.0
+Honda, CB650R,5.0,1.0,648.72,Petrol,867000.0,,87.01,202.5
+Honda, CB500X,3.6,4.0,471.03,Petrol,687000.0,,47.5,199.0
+Honda, CRF1100L Africa Twin,3.6,8.0,1082.96,Petrol,1596000.0,1750000.0,99.2,239.0
+Bajaj, Pulsar 220 F,4.2,2552.0,220.0,Petrol,128000.0,,20.4,160.0
+Bajaj, Pulsar NS200,4.2,2455.0,199.5,Petrol,135000.0,,24.5,156.0
+Bajaj, Pulsar RS200,4.2,1364.0,199.5,Petrol,157000.0,,24.5,166.0
+Bajaj, Pulsar 180,4.1,948.0,178.6,Petrol,109000.0,,17.02,151.0
+Bajaj, Pulsar NS160,4.2,788.0,160.3,Petrol,111000.0,,17.2,151.0
+Bajaj, Dominar 400,4.3,777.0,373.3,Petrol,207000.0,,,187.0
+Bajaj, Chetak,4.1,124.0,4080.0,Electric,100000.0,115000.0,,
+Bajaj, Avenger Cruise 220,4.2,952.0,220.0,Petrol,127000.0,,19.03,163.0
+Bajaj, Avenger Street 160,4.1,498.0,160.0,Petrol,104000.0,,,156.0
+Bajaj, Dominar 250,4.3,166.0,248.77,Petrol,170000.0,,,180.0
+KTM, 200 Duke,4.1,2024.0,199.5,Petrol,181000.0,,25.83,
+KTM, RC 200,4.1,1114.0,199.5,Petrol,204000.0,,,
+KTM, RC 390,4.1,628.0,373.3,Petrol,260000.0,,43.5,
+KTM, 125 Duke,4.0,942.0,124.7,Petrol,162000.0,,14.5,159.0
+KTM, RC 125,4.2,557.0,124.7,Petrol,162000.0,,14.5,
+KTM, 390 Duke,4.2,923.0,373.2,Petrol,270000.0,,43.5,
+KTM, 250 Duke,4.3,782.0,248.8,Petrol,217000.0,,,
+KTM, 390 Adventure,4.2,93.0,373.2,Petrol,310000.0,,43.5,
+KTM, 250 Adventure,4.5,15.0,248.76,Petrol,251000.0,,,177.0
+Revolt, RV400,4.1,393.0,3000.0,Electric,103000.0,118000.0,,108.0
+TVS, Apache RTR 160,4.0,3829.0,159.7,Petrol,103000.0,106000.0,15.53,140.0
+TVS, Apache RTR 160 4V,4.1,2032.0,159.7,Petrol,107000.0,110000.0,17.63,145.0
+TVS, Apache RTR 200 4V,4.2,1162.0,197.75,Petrol,129000.0,134000.0,20.82,152.0
+TVS, Apache RR 310,4.2,635.0,312.2,Petrol,249000.00000000003,,25.8,174.0
+TVS, Apache RTR 180,4.2,1115.0,177.4,Petrol,108000.0,,16.79,141.0
+TVS, iQube Electric,4.0,47.0,4.4,Electric,100000.0,,,118.0
+Hero, Xtreme 160R,4.2,267.0,163.0,Petrol,107000.0,112000.0,15.22,138.5
+Hero, XPulse 200,4.2,310.0,199.6,Petrol,118000.0,,18.04,157.0
+Hero, Xtreme 200S,3.9,111.0,199.6,Petrol,120000.0,,18.08,154.5
+Hero, XPulse 200T,4.1,59.0,199.6,Petrol,115000.0,,18.1,154.0
+Yamaha, YZF R15 V3,4.2,3736.0,155.0,Petrol,152000.0,154000.0,18.6,142.0
+Yamaha, MT-15,4.3,712.0,155.0,Petrol,140000.0,141000.0,18.5,138.0
+Yamaha, FZS-FI V3,4.1,543.0,149.0,Petrol,104000.0,111000.0,12.4,135.0
+Yamaha, FZ-FI Version 3,4.2,416.0,149.0,Petrol,104000.0,,12.4,135.0
+Yamaha, FZ 25,4.2,633.0,249.0,Petrol,134000.0,,20.8,153.0
+Yamaha, FZS 25,4.2,78.0,249.0,Petrol,139000.0,,20.8,154.0
+Jawa, 42,4.0,432.0,293.0,Petrol,168000.0,183000.0,,172.0
+Jawa, Perak,4.3,197.0,334.0,Petrol,197000.0,,,175.0
+Jawa, Jawa,4.0,313.0,293.0,Petrol,177000.0,186000.0,27.33,172.0
+Suzuki, 2021 Hayabusa,4.3,19.0,1340.0,Petrol,1639999.9999999998,,190.0,264.0
+Suzuki, Gixxer,4.3,392.0,155.0,Petrol,116000.0,,13.6,141.0
+Suzuki, Gixxer SF,4.3,508.0,155.0,Petrol,124000.0,127000.0,13.6,148.0
+Suzuki, Intruder,4.2,232.0,155.0,Petrol,124000.0,,13.6,152.0
+Suzuki, Gixxer SF 250,4.4,107.0,249.0,Petrol,178000.0,179000.0,26.5,161.0
+Suzuki, Gixxer 250,4.4,54.0,249.0,Petrol,167000.0,,26.5,156.0
+Suzuki, V-Strom 650XT,4.3,10.0,645.0,Petrol,885000.0,,,216.0
+CFMoto, 300NK,4.3,9.0,292.4,Petrol,229000.0,,33.99,151.0
+Vespa, VXL 150,4.1,56.0,149.5,Petrol,125000.0,,10.47,115.0
+Vespa, SXL 125,3.9,72.0,124.45,Petrol,117000.0,122000.0,9.92,115.0
+Vespa, ZX 125,3.9,23.0,124.45,Petrol,102000.0,,9.92,115.0
+Vespa, VXL 125,3.9,88.0,124.45,Petrol,113000.0,,9.92,115.0
+Vespa, SXL 150,4.0,16.0,149.5,Petrol,129000.0,135000.0,10.47,115.0
+Vespa, Elegante 150,4.5,23.0,149.5,Petrol,137000.0,,10.47,115.0
+Harley-Davidson, Iron 883,4.2,80.0,883.0,Petrol,1011000.0,,,256.0
+Harley-Davidson, Forty Eight,4.3,22.0,1202.0,Petrol,1175000.0,,,252.0
+Harley-Davidson, Fat Boy 114,4.2,31.0,1745.0,Petrol,2090000.0,,,322.0
+Harley-Davidson, Fat Bob 114,4.3,32.0,1868.0,Petrol,1675000.0,,,306.0
+Harley-Davidson, Pan America 1250,,,1252.0,Petrol,1689999.9999999998,1999000.0,,245.0
+Harley-Davidson, Street Glide Special,4.1,7.0,1868.0,Petrol,3199000.0,,,379.0
+Harley-Davidson, Road King,4.2,9.0,1745.0,Petrol,2699000.0,,,379.0
+Harley-Davidson, Road Glide Special,4.5,6.0,1868.0,Petrol,3499000.0,,,391.0
+Harley-Davidson, Heritage Classic,3.1,4.0,1868.0,Petrol,2149000.0,,,330.0
+Harley-Davidson, Electra Glide Standard,5.0,1.0,1745.0,Petrol,2499000.0,,,354.0
+Harley-Davidson, Low Rider S,,,1868.0,Petrol,1469000.0,,,308.0
+Harley-Davidson, Street Bob,,,1868.0,Petrol,1599000.0,,,297.0
+Harley-Davidson, Softail ,,,1746.0,Petrol,1525000.0,,,297.0
+Triumph, Rocket 3,4.3,8.0,2458.0,Petrol,1995000.0,2095000.0,167.0,
+Triumph, Street Twin,4.3,26.0,900.0,Petrol,795000.0,825000.0,,
+Triumph, Trident 660,5.0,3.0,660.0,Petrol,695000.0,,,189.0
+Triumph, Street Triple,4.1,39.0,765.0,Petrol,915000.0,1135000.0,123.0,
+Triumph, Tiger 900,4.7,6.0,888.0,Petrol,1370000.0,1550000.0,95.2,
+Triumph, Bonneville Bobber,4.4,7.0,1200.0,Petrol,1175000.0,,,251.0
+Triumph, Bonneville T120,4.0,9.0,1200.0,Petrol,929000.0,1065000.0,,
+Triumph, Bonneville T100,4.3,12.0,900.0,Petrol,886999.9999999999,959000.0,,
+Triumph, Street Scrambler 900,4.2,1.0,900.0,Petrol,965000.0,,,223.0
+Triumph, Bonneville Speedmaster,4.8,2.0,1200.0,Petrol,1175000.0,,,
+Triumph, Scrambler 1200,,,1200.0,Petrol,1375000.0,,,205.0
+Triumph, Tiger 850 Sport,4.0,2.0,888.0,Petrol,1195000.0,,,
+Triumph, Speed Triple 1200,4.4,2.0,1160.0,Petrol,1695000.0,,180.0,
+BMW, G 310 R,4.3,123.0,313.0,Petrol,250000.0,,,164.0
+BMW, S 1000 RR,4.3,57.0,999.0,Petrol,1950000.0,2375000.0,206.6,197.0
+BMW, G 310 GS,4.1,81.0,313.0,Petrol,290000.0,,,169.5
+BMW, R 1250 GS,4.3,11.0,1254.0,Petrol,2045000.0,,136.0,249.0
+BMW, M 1000 RR,4.3,4.0,999.0,Petrol,4200000.0,4500000.0,212.1,192.0
+BMW, R 1250 GS Adventure,3.8,8.0,1254.0,Petrol,2235000.0,,136.0,268.0
+BMW, R nineT,5.0,1.0,1170.0,Petrol,1850000.0,,108.77,221.0
+BMW, R NineT Scrambler,5.0,1.0,1170.0,Petrol,1675000.0,,108.77,223.0
+BMW, F 900 XR,,,895.0,Petrol,1095000.0,1240000.0,104.6,219.0
+BMW, F 900 R,5.0,1.0,895.0,Petrol,1080000.0,,104.6,211.0
+BMW, R 1250 RT,,,1254.0,Petrol,2250000.0,,135.9,279.0
+BMW, R 1250 R,4.6,4.0,1254.0,Petrol,1625000.0,,135.96,239.0
+BMW, S 1000 XR,5.0,1.0,999.0,Petrol,2130000.0,,164.5,226.0
+BMW, R 18,5.0,1.0,1802.0,Petrol,1990000.0,2400000.0,91.09,345.0
+BMW, 2021 S 1000 R,,,999.0,Petrol,1789999.9999999998,2250000.0,165.0,199.0
+Aprilia, SXR 160,4.2,20.0,160.0,Petrol,127000.0,,10.9,129.0
+Aprilia, SR 160,3.9,68.0,160.03,Petrol,106000.0,113000.0,11.01,118.0
+Aprilia, SXR 125,5.0,2.0,124.45,Petrol,116000.0,,9.52,
+Mahindra, Mojo 300 BS6,4.0,13.0,294.72,Petrol,199000.0,211000.0,25.72,186.2
+Kawasaki, 2021 Ninja H2,4.3,44.0,998.0,Petrol,7990000.000000001,,310.0,238.0
+Kawasaki, Ninja 300,4.3,206.0,296.0,Petrol,318000.0,,,179.0
+Kawasaki, Ninja ZX-10R,4.4,59.0,998.0,Petrol,1499000.0,,203.0,207.0
+Kawasaki, Z900,4.6,51.0,948.0,Petrol,834000.0,,125.0,212.0
+Kawasaki, Ninja 1000SX,4.1,42.0,1043.0,Petrol,1129000.0,,142.0,238.0
+Kawasaki, Ninja 650,4.5,27.0,649.0,Petrol,654000.0,,,196.0
+Kawasaki, Vulcan S,4.2,30.0,649.0,Petrol,604000.0,,,235.0
+Kawasaki, Z650,4.1,16.0,649.0,Petrol,618000.0,,,191.0
+Kawasaki, Z H2,5.0,1.0,998.0,Petrol,2190000.0,2590000.0,200.0,239.0
+Kawasaki, KLX 110,4.1,3.0,112.0,Petrol,299000.0,,7.3,
+Kawasaki, Versys 650,4.3,19.0,649.0,Petrol,708000.0,,,218.0
+Kawasaki, KX 100,4.0,4.0,,Petrol,487000.0,,,
+Kawasaki, KX 250,5.0,1.0,249.0,Petrol,743000.0,,,104.7
+Kawasaki, KLX 140,3.0,2.0,144.0,Petrol,406000.0,,,
+Kawasaki, KX 450F,5.0,3.0,449.0,Petrol,779000.0,,,110.0
+Kawasaki, KLX 450R,3.4,1.0,449.0,Petrol,849000.0,,,126.0
+Kawasaki, Versys 1000,5.0,3.0,1043.0,Petrol,1144000.0,,120.0,255.0
+Kawasaki, W800 Street,5.0,3.0,773.0,Petrol,719000.0,,,224.0
+Ducati, 2021 Panigale V4,4.2,20.0,1103.0,Petrol,2350000.0,2840000.0,216.9,198.0
+Ducati, Scrambler 800,4.4,13.0,803.0,Petrol,799000.0,980000.0,73.4,196.0
+Ducati, Streetfighter V4,4.6,3.0,1103.0,Petrol,1999000.0,2319000.0,208.0,201.0
+Ducati, Diavel 1260,4.0,5.0,1262.0,Petrol,1849000.0,2149000.0,164.2,249.0
+Ducati, Panigale V2,4.1,6.0,955.0,Petrol,1748999.9999999998,,155.0,200.0
+Ducati, Multistrada 950,4.1,6.0,937.0,Petrol,1549000.0,,114.5,229.0
+Ducati, Scrambler Desert Sled,,,803.0,Petrol,1089000.0,,72.8,209.0
+Ducati, Scrambler 1100,4.4,2.0,1079.0,Petrol,1099000.0,1374000.0,85.65,206.0
+Benelli, Imperiale 400,4.3,89.0,374.0,Petrol,189000.0,193000.0,,205.0
+Benelli, TRK 502,4.7,14.0,500.0,Petrol,485000.0,535000.0,47.5,
+Benelli, Leoncino 500,4.8,6.0,500.0,Petrol,469000.00000000006,479000.0,47.5,207.0
+Husqvarna, Vitpilen 250,4.3,55.0,248.76,Petrol,199000.0,,,153.0
+Husqvarna, Svartpilen 250,4.2,105.0,248.76,Petrol,198000.0,,,154.0
+Indian, Springfield Dark Horse,3.3,5.0,1890.0,Petrol,2857000.0,,,355.0
+White, Carbon Motors GT5,,,3000.0,Electric,115000.0,,,170.0
+Okinawa, iPraise,3.5,48.0,2500.0,Electric,108000.0,,,
